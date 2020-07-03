@@ -1,0 +1,125 @@
+.bootstrapTable{
+    border: 1px solid gray;
+    width: auto;
+    margin-left: 10px;
+    background-color: white;
+}
+#mainTable{
+    background-color: white;
+    width: 98%;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+/* Header CSS Starts*/
+
+ /* Header CSS Ends */
+#add-travel-booking h6{
+    float: right;
+    margin-top: 60px;
+}
+
+/* Top Heading CSS Starts */
+.TopHeader{
+    /* display: flex; */
+    padding:8px;
+    background-color: red;
+    margin-top: 40px;
+}
+.mainForm{
+    background-color:white;
+    margin-top: 10px;
+    border:1px solid gray;
+    width: 98%;
+    margin-left: 10px;
+
+}
+
+#Select{
+    margin-left: 15px;
+    border: 1px solid burlywood;
+    color:burlywood;
+    margin-top: 10px;
+
+}
+#submit{
+    margin-left: 45px;
+    height:5vh;
+    width:7vw;
+    border: 1px solid burlywood;
+    background-color: burlywood;
+    color:white;
+    margin-top: 10px;
+
+}
+#reset{
+    margin-left: 15px;
+    height:5vh;
+    width:7vw;
+    border: 1px solid burlywood;
+    color:burlywood;
+    margin-top: 10px;
+}
+#statusDropdown{
+    margin-left: 20px;
+    border: 1px solid burlywood;
+    color:burlywood;
+    margin-top: 10px;
+}
+#inlineFormInputGroup{
+    border: 1px solid burlywood;
+    border-radius: 0px;
+    color:burlywood;
+    position: relative;
+    padding: 10px;
+    text-align: center; 
+    margin-top: 10px;
+
+}
+.mb-2{
+    position: relative;
+    width:100%;
+    margin-top: 10px;
+    margin-left: 15px;
+    border:0px;
+
+}
+.mr-sm-2{
+    position: relative;
+    /* margin-left: 10px; */
+    /* border: 1px solid burlywood; */
+}
+#icon{
+    margin-left: 8px;
+    border: 1px solid burlywood;
+    background: white;
+}
+/* Top Heading CSS Ends */
+
+.tableHeading{
+    background-color: burlywood;
+}
+.actionSymbol i {
+    margin-left: 1.5rem;
+}
+/* Home Component CSS Starts */
+
+.HomeRouter ul li{
+    list-style: none;
+    padding:10px;
+}
+.HomeRouter ul{
+    display: flex;
+    
+}
+.HomeRouter ul li Link{
+    text-decoration: none;
+}
+/* Home Component ends */
+
+
+
+
+
+
+
+
